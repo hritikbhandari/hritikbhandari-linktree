@@ -17,13 +17,9 @@ h5 {
 
 /*----------------- Mail-------------------- */
 
-#email {
-    text-decoration: none;
-    float: right;
-    color: #343a40;
-}
-
 .footer {
+    color: #fafafa;
+    text-align: center;
     margin-top: 5% !important;
     margin-bottom: 10px;
 }
