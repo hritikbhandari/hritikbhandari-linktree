@@ -18,7 +18,7 @@
     <a href="https://github.com/hritikbhandari/Custom-Linktree-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/hritikbhandari/Custom-Linktree-Template">View Demo</a>
+    <a href="https://hritikbhandari.github.io/Custom-Linktree-Template/">View Demo</a>
     ·
     <a href="https://github.com/hritikbhandari/Custom-Linktree-Template/issues">Custom-Linktree-Templatert Bug</a>
     
